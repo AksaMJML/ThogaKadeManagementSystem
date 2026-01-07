@@ -1,5 +1,6 @@
 package model.dto;
 
+import javafx.collections.ObservableArray;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
